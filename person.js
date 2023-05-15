@@ -27,10 +27,3 @@ class Person {
  const invalidPerson = {};
  Person.introducePeople([newGuy, myself]);
 /****************************************************************************/
-/******************* DO NOT EDIT CODE BELOW THIS LINE ***********************/
-
-try {
-  module.exports = Person;
-} catch {
-  module.exports = null;
-}
